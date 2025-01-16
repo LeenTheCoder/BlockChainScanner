@@ -1,6 +1,6 @@
 # BlockChainScanner
 
-[English](README.md) | **Русский**
+[English](ReadME.md) | **Русский**
 
 ---
 
