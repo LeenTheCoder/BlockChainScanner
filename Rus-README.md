@@ -51,8 +51,8 @@ pip install -r requirements.txt
    pip install -r requirements.txt
    ```
 3. Запустите утилиту:
-   ```bash
-   python blockchain_scanner.py -s <номер блока С которого начать сканирование> -e <номер блока ДО которого сканировать > -b <минимальный баланс в Btc> -y <до какой даты совершенна последняя транзакция>
+ ```bash
+   python blockchain_scanner.py -s 250000 -e 300000 -b 1 -y 2013
    ```
 
 ## Часто задаваемые вопросы
