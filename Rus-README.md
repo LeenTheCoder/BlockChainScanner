@@ -52,7 +52,7 @@ pip install -r requirements.txt
    ```
 3. Запустите утилиту:
  ```bash
-   python blockchain_scanner.py -s 250000 -e 300000 -b 1 -y 2013
+   python blockchain_scanner.py -s <номер блока> -e <номер блока> -b <баланс> -y <год>
    ```
 
 ## Часто задаваемые вопросы
